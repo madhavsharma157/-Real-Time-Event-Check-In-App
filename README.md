@@ -136,7 +136,7 @@ Screenshots (if applicable)
 📞 Support
 📧 Email: support@yourplatform.com
 💬 Discord: Server
-📖 Documentation: https://github.com/madhavsharma157/-Real-Time-Event-Check-In-App/edit/main/README.md
+📖 Documentation: https://github.com/madhavsharma157/-Real-Time-Event-Check-In-App/tree/master
 🙏 Acknowledgments
 Next.js for the amazing framework
 Vercel for hosting and deployment
